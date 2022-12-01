@@ -1,6 +1,5 @@
 <h2 align="center">Hi 👋, I'm David Michael</h2>
 <h5 align="center">An aspiring SOFTWARE ENGINEER</h5>
-
 <p><img align="center" alt="Coding" width="400" src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47f73gum2aedvhg4n2sy6b07q4m0m21h42wazwgb6y&rid=giphy.gif&ct=g" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidinmichael&label=Profile%20views&color=0e75b6&style=flat" alt="davidinmichael" /> </p>
