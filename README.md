@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate with **other great Software Engineers**
 
-- 📝 I regularly write articles on [https://twitter.com/DavidMichael_in?t=RII6GA_BXAA7z2taqLAZPA&s=08](https://twitter.com/DavidMichael_in?t=RII6GA_BXAA7z2taqLAZPA&s=08)
+- 📝 I regularly write articles on [https://twitter.com/davidinmichael?t=Dp7sMohBaeAozhoN-dMh9g&s=08](https://twitter.com/DavidMichael_in?t=RII6GA_BXAA7z2taqLAZPA&s=08)
 
 - 💬 Ask me about **Git, C, Emacs, VI and Linux**
 
