@@ -15,13 +15,13 @@
 
 - 👯 I’m looking to collaborate with **other great Software Engineers**
 
-- 📝 I regularly write articles on [https://twitter.com/davidinmichael?t=Dp7sMohBaeAozhoN-dMh9g&s=08](https://twitter.com/DavidMichael_in?t=RII6GA_BXAA7z2taqLAZPA&s=08)
+- 📝 I regularly write articles on [https://twitter.com/davidinmichael](https://twitter.com/davidinmichael)
 
-- 💬 Ask me about **Git, C, Emacs, VI and Linux**
+- 💬 Ask me about **Git, Github, HTML, CSS, C, Emacs, VI and Linux**
 
 - 📫 How to reach me **davidinmichael@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bkNiVVPcYZOTvnI0C96wUAUgUDHm6Y_d/view?usp=sharing](https://drive.google.com/file/d/1bkNiVVPcYZOTvnI0C96wUAUgUDHm6Y_d/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/16kl6ObjaBOuKWOcVphQhfGUyGKr36e47/view?usp=drivesdk](https://drive.google.com/file/d/16kl6ObjaBOuKWOcVphQhfGUyGKr36e47/view?usp=drivesdk)
 
 - ⚡ Fun fact **I love codes so much that if you talk to me about code; you win my heart.**
 
@@ -31,7 +31,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/davidinmichael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davidinmichael" height="30" width="40" /></a>
+<a href="https://twitter.com/davidinmichael" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davidinmichael" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/davidinmichael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="davidinmichael" height="30" width="40" /></a>
 <a href="https://fb.com/david michael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="david michael" height="30" width="40" /></a>
 <a href="https://instagram.com/davidinmichael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davidinmichael" height="30" width="40" /></a>
