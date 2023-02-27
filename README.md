@@ -15,13 +15,13 @@
 
 - 👯 I’m looking to collaborate with **other great Software Engineers**
 
-- 📝 I regularly write articles on [https://twitter.com/davidinmichael](https://twitter.com/davidinmichael)
+- 📝 I regularly write articles on [https://medium.com/@davidinmichael](https://medium.com/@davidinmichael)
 
-- 💬 Ask me about **Git, Github, HTML, CSS, C, Emacs, VI and Linux**
+- 💬 Ask me about **Git, Github, HTML, CSS, C, Python, Emacs, VI and Linux**
 
 - 📫 How to reach me **davidinmichael@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16kl6ObjaBOuKWOcVphQhfGUyGKr36e47/view?usp=drivesdk](https://drive.google.com/file/d/16kl6ObjaBOuKWOcVphQhfGUyGKr36e47/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1EC3D1I2TwHTwgbvBLEjlu4pi9xyRZqq9/view?usp=drivesdk](https://drive.google.com/file/d/1EC3D1I2TwHTwgbvBLEjlu4pi9xyRZqq9/view?usp=drivesdk)
 
 - ⚡ Fun fact **I love codes so much that if you talk to me about code; you win my heart.**
 
