@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm David Michael</h2>
-<h5 align="center">An aspiring SOFTWARE ENGINEER</h5>
+<h5 align="center">A SOFTWARE Developer</h5>
 
 <p><img align="center" alt="Coding" width="400" src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47f73gum2aedvhg4n2sy6b07q4m0m21h42wazwgb6y&rid=giphy.gif&ct=g" /></p>
 
@@ -9,25 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/davidinmichael" target="blank"><img src="https://img.shields.io/twitter/follow/davidinmichael?logo=twitter&style=for-the-badge" alt="davidinmichael" /></a> </p>
 
-- 🔭 I’m currently enrolled in **ALX SOFTWARE ENGINEERING PROGRAM**
-
-- 🌱 I’m currently learning **C Programming, HTML/CSS, Linux and Git**
+- 🌱 My Tech Stack includes; **Python, Django, Django Rest Framework and HTML/CSS**
 
 - 👯 I’m looking to collaborate with **other great Software Engineers**
 
-- 📝 I regularly write articles on [https://medium.com/@davidinmichael](https://medium.com/@davidinmichael)
-
-- 💬 Ask me about **Git, Github, HTML, CSS, C, Python, Emacs, VI and Linux**
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/davidinmichael/)
 
 - 📫 How to reach me **davidinmichael@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EC3D1I2TwHTwgbvBLEjlu4pi9xyRZqq9/view?usp=drivesdk](https://drive.google.com/file/d/1EC3D1I2TwHTwgbvBLEjlu4pi9xyRZqq9/view?usp=drivesdk)
-
 - ⚡ Fun fact **I love codes so much that if you talk to me about code; you win my heart.**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
